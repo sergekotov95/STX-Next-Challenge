@@ -1,0 +1,18 @@
+.myListContainer {
+    margin: 50px auto; 
+}
+
+.myFilmsForm {
+    position: absolute;
+      bottom: 10px;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      width: 25%;
+  }
+  
+.closeBtn {
+position: absolute;
+top: 5px;
+right: 5px;
+}
