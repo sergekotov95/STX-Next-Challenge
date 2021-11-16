@@ -1,0 +1,13 @@
+.main {
+  margin: 50px auto;
+}
+  
+.addBtn {
+  position: absolute;
+  bottom: 20px;
+}
+
+.errorMessage {
+  margin: 40px auto;
+  width: 50%;
+}
